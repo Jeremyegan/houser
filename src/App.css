@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.header {
+  background-color: #519782;
+  height: 60px;
+}
+
+.header-content {
+  color: white;
+}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
